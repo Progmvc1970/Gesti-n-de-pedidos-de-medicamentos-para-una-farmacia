@@ -1,0 +1,13 @@
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.csproj.AssemblyReference.cache
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.FormularioPedidos.resources
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.Properties.Resources.resources
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.csproj.GenerateResource.cache
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.csproj.CoreCompileInputs.cache
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.PedidoEnviado.resources
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.ResumendelPedido.resources
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\bin\Debug\FarmaciaPedidosApp.exe.config
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\bin\Debug\FarmaciaPedidosApp.exe
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\bin\Debug\FarmaciaPedidosApp.pdb
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.exe
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.pdb
+C:\Users\ulp21\source\repos\FarmaciaPedidosApp\FarmaciaPedidosApp\obj\Debug\FarmaciaPedidosApp.exe.config
